@@ -4,7 +4,7 @@ LaTeX is a typesetting language used in academic environments. It has a characte
 
 ## Install
 1. Download and install the Latin Modern Fonts at http://www.gust.org.pl/projects/e-foundry/latin-modern/download, an improved version of the Computer Modern font.
-2. Download the [template]() in this repo. (The `dotx` file is also provided for legacy versions of Word 2008.) Either open it and start writing or apply the template to an already existing document. Both should work fine.
+2. Download the [template](https://github.com/statzhero/LaTeX-Word-template/blob/master/Normal.dotm?raw=true) in this repo. (The `dotx` file is also provided for legacy versions of Word 2008.) Either open it and start writing or apply the template to an already existing document. Both should work fine.
 3. For permanent changes to the default template, see below.
 
 
