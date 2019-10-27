@@ -8,11 +8,11 @@ LaTeX is a typesetting language used in academic environments. It has a characte
 3. For permanent changes to the default template, see below.
 
 
-## Load templates or add-ins into [Word (Mac)](https://support.office.com/en-us/article/Change-the-default-settings-for-new-documents-430B4132-E129-46E4-97D2-19C326352C7F):
+## Load templates into [Word (Mac)](https://support.office.com/en-us/article/Change-the-default-settings-for-new-documents-430B4132-E129-46E4-97D2-19C326352C7F):
 You can change the default settings for new documents by making changes to the Normal template that new documents are based on. You can modify the Normal template to change its default formatting or content so that any new document that you create will use the new settings.To install this template,
 
-- If you are using Word 2016 for Mac, copy the file to and replace _Normal.dotm_ in `/Users/username/Library/Group Containers/UBF8T346G9.Office/User Content/Templates`
-- If you are using Word for Mac 2011, copy the file to and replace _Normal.dotm_ in `/Users/username/Library/Application Support/Microsoft/Office/User Templates/My Templates`
+- If you are using Word 2016 for Mac, copy the file to and replace _Normal.dotm_ in `/Users/USERNAME/Library/Group Containers/UBF8T346G9.Office/User Content/Templates`
+- If you are using Word for Mac 2011, copy the file to and replace _Normal.dotm_ in `/Users/USERNAME/Library/Application Support/Microsoft/Office/User Templates/My Templates`
 
 
 ## Load templates or add-ins into [Word (Windows)](https://support.office.com/en-us/article/Load-or-unload-a-template-or-add-in-program-2479FE53-F849-4394-88BB-2A6E2A39479D):
