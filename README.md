@@ -30,4 +30,4 @@ Under **Global templates and add-ins**, select the check box next to the templat
 If the template or add-in you want does not appear in the box, click **Add**, switch to the folder that contains the template or add-in you want, click it, and then click **OK**.
 
 ## Attribution
-Forked original repo from @sebnil
+Inspired by the original repo from @sebnil
